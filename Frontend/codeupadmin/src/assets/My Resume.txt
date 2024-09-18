@@ -1,0 +1,109 @@
+Chandni Sodani
+
+
+chandnisodani77755@gmail.com
+7742451695
+https://www.linkedin.com/in/chandni-sodani-6ba220230
+https://github.com/Chandni162001
+
+
+
+------------------------
+ Seeking an opportunity in the software development, where I can leverage my technical skills, adaptability, and passion for innovation to contribute to projects, learn from experienced professionals, and develop a successful career. 
+
+
+Skills
+------------------------
+-HTML
+-CSS
+-JAVASCRIPT
+-React.js
+-Node.js
+-Express
+-Bootstrap
+-MongoDB
+-C++
+-GitHub
+
+
+
+Education
+------------------------
+B.Tech - CSE
+JECRC UNIVERSITY, Jaipur
+07/2024
+94 %
+Courses
+
+
+Class- XII ( CBSE )
+CAMBRIDGE COURT HIGH SCHOOL, Jaipur
+04/2019
+88.4 %
+Courses
+
+
+Class- X ( CBSE )
+CAMBRIDGE COURT HIGH SCHOOL, Jaipur
+04/2017
+87.4 %
+Courses
+
+
+
+
+
+Work Experience
+------------------------
+Full-Stack Web Developer Intern
+Netparam Technologies, Jaipur
+02/2024 - 06/2024
+Achievements/Tasks
+- Enhanced user experience by designing and implementing responsive web applications using HTML, CSS, and JavaScript. 
+- Leveraged modern frameworks like Node.js and Express.js for efficient server-side development. 
+- Reduced server response time by optimizing database queries and implementing efficient caching strategies. 
+
+
+
+Web Developer Intern
+Startup - Codeup , Jaipur
+08/2024 - Present
+Achievements/Tasks
+- <!--StartFragment-->Developed a fully functional admin panel using the MERN stack (MongoDB, Express.js, React, Node.js).<!--EndFragment--> 
+
+
+
+
+
+
+Personal Projects
+------------------------
+Food Restaurant & Delivery Website
+-  A food restaurant and delivery website project involves creating an online platform where users can browse menus, place orders, and arrange deliveries, utilizing both front-end and back-end technologies to manage user interactions, data storage, and order processing.  
+- Technologies Used-   Bootstrap, ReactJs  , CSS,  NodeJs  , Express, MongoDB 
+
+
+CodeFlow
+-  The Code Flow project is a software tool designed to visualize the sorting process of various algorithms on input arrays and compare their performance.  
+-  Technologies Used-  HTML, CSS, Javascript 
+
+
+
+
+
+Organizations
+------------------------
+Organization Name
+
+
+
+
+
+Achievements
+------------------------
+Achievement Name
+
+
+
+
+
